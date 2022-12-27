@@ -1,0 +1,17 @@
+.header {
+    grid-area: h;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: thistle;
+  }
+  
+.header img {
+  width: 20px;
+}
+
+
+.loginBlock {
+    color: #fff;
+}

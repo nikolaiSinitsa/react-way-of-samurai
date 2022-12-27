@@ -1,0 +1,9 @@
+.select {
+    cursor: pointer;
+    border: 1px solid grey;
+}
+
+.selected {
+    font-weight: 800;
+    border: 1px solid #000000;
+}

@@ -1,0 +1,25 @@
+.nav {
+    grid-area: n;
+    background-color: burlywood;
+    padding: 15px;
+  }
+  
+.item {
+  padding: 10px;
+}
+
+a{
+  color: white;
+  font-weight: 300;
+  text-decoration: none;
+}
+
+.active {
+  color: black;
+  font-weight: 800;
+}
+
+
+a:hover {
+  color: black;
+}
